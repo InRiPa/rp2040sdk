@@ -1,5 +1,9 @@
 # rp2040sdk
-Toolchain for tp2040SDK
+Toolchain for rp2040SDK
+
+Build Image:
+
+`podman build -f Dockerfile -t rp2040sdk2 .`
 
 Example calls:
 
